@@ -1,5 +1,16 @@
 # lakehouse-platform
-A production-style Metadata-Driven Lakehouse Data Platform with Pyspark and Databricks ensuring data quality and governance
+A production-style Metadata-Driven Lakehouse Platform using:
+
+Databricks concepts
+PySpark
+Delta Lake
+Airflow
+Docker
+MinIO/S3
+Data Quality
+Incremental processing
+Governance concepts
+Reusable ingestion framework
 
                 FILES / APIs / FIVETRAN
                          │
